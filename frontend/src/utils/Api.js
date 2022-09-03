@@ -81,5 +81,9 @@ class Api {
   }
 }
 export const api = new Api({
-  url: "http://localhost:3000",
+  url: "https://api.morgankatarn.nomoredomains.sbs",
 });
+// проблема была в https :\
+// export const api = new Api({
+//   url: "http://localhost:3000",
+// });
