@@ -50,9 +50,10 @@ class Auth {
   // };
 }
 export const auth = new Auth({
-  url: "https://api.morgankatarn.nomoredomains.sbs",
+  url: `${window.location.protocol}//localhost:3000`,
 });
 
+// для подключения к моему серверу
 // export const auth = new Auth({
-//   url: "http://localhost:3000",
+//   url: `${window.location.protocol}//api.morgankatarn.nomoredomains.sbs`,
 // });
