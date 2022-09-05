@@ -43,7 +43,7 @@ _DELETE_ `/cards/:cardId/likes` — убрать лайк с карточки
 
 ## Публичный IP-адрес сервера и домен
 
-https://morgankatarn.nomoredomains.sbs/ - фронтенд
+https://morgankatarn.nomoredomains.sbs/ - фронтенд  
 https://api.morgankatarn.nomoredomains.sbs/signin - сервер
 
 51.250.78.39 - ip
